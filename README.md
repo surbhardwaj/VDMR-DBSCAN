@@ -11,6 +11,7 @@ Image below shows the architecture of VDMR-DBSCAN :
 
 
 Following are the results obtained by VDMR-DBSCAN, which clearly showcases that VDMR-DBSCAN is able to detect varied density clusters.
+
 ![alt text](VDMR-1.png "VDMR-DBSCAN Results")
 
 
