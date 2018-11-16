@@ -5,6 +5,15 @@ Research Work which I conducted as a part of my Master's thesis.  Proposed a Map
 It contains the complete paper published @ BDA 2015 Proceedings of the 4th International Conference on Big Data Analytics - Volume 9498
 Complete thesis work with application of the algorithm is also commited.
 
+Image below shows the architecture of VDMR-DBSCAN :
+
+![alt text](VDMR-3.png "VDMR-DBSCAN Architecture")
+
+
+Following are the results obtained by VDMR-DBSCAN, which clearly showcases that VDMR-DBSCAN is able to detect varied density clusters.
+![alt text](VDMR-1.png "VDMR-DBSCAN Results")
+
+
 
 
 If you use this work, please add the reference to :
@@ -17,3 +26,5 @@ If you use this work, please add the reference to :
   year={2015},
   organization={Springer}
 }
+
+
